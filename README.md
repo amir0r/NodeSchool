@@ -1,2 +1,2 @@
 # NodeSchool
-My nodeschool.io workshops solutions (comming soon...)
+My nodeschool.io workshops solutions (coming soon...)
