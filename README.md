@@ -3,7 +3,7 @@ My www.nodeschool.io workshops solutions (coming soon...)
 
 ## Core
 - [x] learnyounode
-- [ ] How to npm
+- [x] How to npm
 - [ ] stream-adventure
 - [ ] Elementary Electron
 
