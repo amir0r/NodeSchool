@@ -2,7 +2,7 @@
 My www.nodeschool.io workshops solutions (coming soon...)
 
 ## Core
-- [ ] learnyounode
+- [x] learnyounode
 - [ ] How to npm
 - [ ] stream-adventure
 
