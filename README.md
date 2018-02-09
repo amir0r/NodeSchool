@@ -5,6 +5,7 @@ My www.nodeschool.io workshops solutions (coming soon...)
 - [x] learnyounode
 - [ ] How to npm
 - [ ] stream-adventure
+- [ ] Elementary Electron
 
 ## Electives
 - [ ] Functional Javascript
