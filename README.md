@@ -4,7 +4,7 @@ My www.nodeschool.io workshops solutions (coming soon...)
 ## Core
 - [x] learnyounode
 - [x] How to npm
-- [ ] stream-adventure
+- [x] stream-adventure
 - [ ] Elementary Electron
 
 ## Electives
