@@ -22,7 +22,7 @@ My www.nodeschool.io workshops solutions (coming soon...)
 - [ ] **Currying in JavaScript**
 - [ ] bacon-love
 - [ ] innersourceadventure
-- [ ] Bytewiser
+- [ ] **Bytewiser**
 - [ ] Browserify Adventure
 - [ ] **learnyoureact**
 - [ ] **torrential**
