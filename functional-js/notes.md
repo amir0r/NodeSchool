@@ -30,7 +30,7 @@ curry3(abc)(6)(3)(2) // 6/3/1 = 1
 // il faut voir [curry3(abc)(6)(3)] comme le nom d'un fonction qu'on appelle avec (2) 
 ```
 
-Vu que **curryA**, **curryB** et **curryC** retournent une fonction à chaque fois, on appelle ces fonctions qui sont retournées en leur passant un nombre en parametre. **curry3** prends une fonction en paramètre, et l'applique à 3 nombres qu'elle reçoit grâce à des fonctions *imbriquées*. Etant donnée qu'elles sont toutes dans le **scope** de **curry3**, chacune d'entre elles connaît l'argument de la fonction qui la précède (retourne/appelle) . 
+Vu que **curryA**, **curryB** et **curryC** retournent une fonction à chaque fois. On appelle ces fonctions qui sont retournées en leur passant un nombre en paramètre. **curry3** prends une fonction en paramètre, et l'applique aux 3 nombres qu'elle a reçu grâce à des fonctions *imbriquées*. Etant donnée qu'elles sont toutes dans le **scope** de **curry3**, chacune d'entre elles connaît l'argument de la fonction qui la précède (celle qui l'a retournée/appellée) . 
 
 On dit de **curry3** qu'elle est une *fonction d'ordre supérieur* car elle englobe (retourne) une autre fonction.
 
@@ -59,8 +59,8 @@ console.log(addTenV2(add)(30)) // 40
 
 ## A quoi ça sert ?
 
-Moi-même j'ai du mal à voir l'aspect pratique dedans(pour l'instant)...ma foi, il faut se renseigner. "Google" est notre poto.
+Moi-même j'ai du mal à voir l'aspect pratique dedans(pour l'instant)...ma foi, il faut se renseigner. "Google" est notre poto :D
 
 ## Artciles à lire
 
->J'avais lu des choses intéressantes sur Medium...(à retrouver). Comme quoi, faire une synthèse de ce qu'on a appris et l'e redonner à la communauté est un bon exercice pour retenir.
+>J'avais lu des choses intéressantes sur Medium...(à retrouver). Comme quoi, faire une synthèse de ce qu'on a appris et le redonner à la communauté est un bon exercice pour retenir.
