@@ -8,7 +8,7 @@ My www.nodeschool.io workshops solutions (coming soon...)
 - [x] [Elementary Electron](https://www.github.com/maxogden/elementary-electron)
 
 ## Electives
-- [ ] [**Functional Javascript**](https://github.com/timoxley/functional-javascript-workshop)
+- [x] [**Functional Javascript**](https://github.com/timoxley/functional-javascript-workshop)
 - [ ] [ExpressWorks](https://github.com/azat-co/expressworks)
 - [ ] [Make Me Hapi](https://github.com/hapijs/makemehapi)
 - [x] [**Promise It Won't Hurt**](https://github.com/stevekane/promise-it-wont-hurt)
