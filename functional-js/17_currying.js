@@ -1,11 +1,8 @@
-const curryN = (fn, n = fn.length, args = []) => {
-	if (n === 0)
-		return fn(...args)
-	return (a) => {
-		args.push(a)
-		return curryN(fn, n - 1, args)
-	}
-}
+const curryN = (fn, n = fn.length) => 
+	(a) => n === 1
+	? fn(a)
+	: curryN(fn.bind(fn, a), n - 1)
+
 
 module.exports = curryN
 
