@@ -1,0 +1,1 @@
+process.stdin.on('data', (buff) => console.log(JSON.stringify(new Uint8Array(buff))))
