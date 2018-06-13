@@ -25,7 +25,7 @@ My www.nodeschool.io workshops solutions (coming soon...)
 - [x] [**Bytewiser**](https://github.com/maxogden/bytewiser)
 - [ ] [Browserify Adventure](https://github.com/substack/browserify-adventure)
 - [ ] [**learnyoureact**](https://github.com/tako-black/learnyoureact)
-- [ ] [**torrential**](https://github.com/No9/torrential)
+- [x] [**torrential**](https://github.com/No9/torrential)
 - [ ] [**Thinking in React**](https://github.com/asbjornenge/thinking-in-react)
 - [ ] [JavaScript best practices](https://github.com/excellalabs/js-best-practices-workshopper)
 
